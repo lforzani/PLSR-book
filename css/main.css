@@ -157,7 +157,7 @@ h3, .h3 {
 
 h4, .h4 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 h5, .h5 {
@@ -2180,7 +2180,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .section-gap {
-  padding: 120px 0;
+  padding: 100px 0;
 }
 
 .section-title {
@@ -2701,7 +2701,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .testomial-area .owl-dots {
   text-align: center;
   bottom: 5px;
-  margin-top: 20px;
+  margin-top: 10px;
   width: 100%;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
@@ -2744,7 +2744,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-  padding-top: 100px;
+  padding-top: 70px;
   background-color: #C11148;
 }
 
@@ -2885,7 +2885,7 @@ h6 {
 }
 
 .footer-text {
-  padding-top: 20px;
+  padding-top: 30px;
 	font-size: 12px;
 }
 
